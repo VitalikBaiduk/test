@@ -11,11 +11,10 @@ body {
 }
 
 form {
-    width: 700px;
-    /* display: flex;
+    width: 600px;
+    display: flex;
     justify-content: center;
     text-align: center;
-    flex-wrap: wrap; */
     margin: 350px 0 0 0;
 }
 
@@ -34,4 +33,5 @@ form {
     cursor: pointer;
     border-radius: 20px;
     padding: 10px 20px;
+    margin-left: 10px;
 }
